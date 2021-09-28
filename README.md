@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salih Ömer Çabuk</h1>
 <h3 align="center">I'm trying to be a good full stack mobile developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k4future&label=Profile%20views&color=0e75b6&style=flat" alt="k4future" /> </p>
-
 - 🔭 I’m currently working on **Android and Kotlin**
 
 - 🌱 I’m currently learning **JavaScript and GoLang**
