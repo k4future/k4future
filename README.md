@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android and Kotlin**
 
-- 🌱 I’m currently learning **JavaScript and GoLang**
+- 🌱 I’m currently learning **JavaScript, HTML5, CSS3**
 
 - 📫 How to reach me **salihomercabuk@gmail.com**
 
